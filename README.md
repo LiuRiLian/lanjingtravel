@@ -1,0 +1,2 @@
+# lanjingtravel
+my first repository
